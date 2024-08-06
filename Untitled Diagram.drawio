@@ -157,7 +157,7 @@
           <mxGeometry x="302.25" y="38.13" width="246.5" height="83.75" as="geometry" />
         </mxCell>
         <mxCell id="4pZrdhgn44m1h8Vc9Evg-92" value="Welcome to my website! Here you will be able to find up-to-date information on which teams and individual players have scored the most goals in was is considered to be the top 5 soccer leagues in the world. " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#283038;" vertex="1" parent="1">
-          <mxGeometry x="20" y="150" width="320" height="170" as="geometry" />
+          <mxGeometry x="20" y="150" width="320" height="250" as="geometry" />
         </mxCell>
         <mxCell id="4pZrdhgn44m1h8Vc9Evg-60" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="372.75" y="570" width="440" height="320" as="geometry" />
