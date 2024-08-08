@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.6">
   <diagram name="Page-1" id="lAEC4sKNwvME6B4Y-kTL">
-    <mxGraphModel dx="1793" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3693" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,8 +338,8 @@
         <mxCell id="CWEapN3kdoYWzAm_LrI1-39" value="Team facts and summary" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2060" y="182.5" width="440" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CWEapN3kdoYWzAm_LrI1-40" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;W/L : ???&lt;/li&gt;&lt;li&gt;Goals: ???&lt;br&gt;&lt;/li&gt;&lt;li&gt;Goals Against: ???&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="420" width="280" height="120" as="geometry" />
+        <mxCell id="CWEapN3kdoYWzAm_LrI1-40" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;W/L : ???&lt;/li&gt;&lt;li&gt;Goals: ???&lt;br&gt;&lt;/li&gt;&lt;li&gt;Goals Against: ???&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="400" width="300" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
